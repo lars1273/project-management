@@ -48,7 +48,9 @@ return [
         'ses' => [
             'transport' => 'ses',
         ],
-
+        'resend' => [
+            'transport' => 'resend',
+        ],
         'mailgun' => [
             'transport' => 'mailgun',
         ],
